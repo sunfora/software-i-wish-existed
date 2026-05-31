@@ -52,7 +52,7 @@ Mail me at ivasandovinzzz@gmail.com.
     
   Should be cozy.
     
-- **Achievemnt-Unlocked network**
+- **Achievemnt-Unlocked network**  
   While web is a perfect platform for independent publishing of games, there is no real actual place where you can gather your achievements.  
   Also, lots and lots of resources grant you achivements, but they are kinda scattered. I wish to merge them all into one place.  
     
