@@ -103,7 +103,28 @@ Mail me at ivasandovinzzz@gmail.com.
   But now you can put them on map, select them on map. Connect and annotate.  
     
   Replay the happenings in order.  
-  Maybe a detective suit.  
+  Maybe a software suite for a detective.  
+    
+- **Card-Game Hiring.**
+    
+  @originally: [tweet](https://x.com/sandovin34721/status/2061321345909063886)
+    
+  I am bored out from looking the job postings and sending motivation letters.  
+  And also the first akward ping-pong between the parties.  
+    
+  Maybe we can do better: why not make this whole process a card game?  
+  You have your cards: technologies you are familiar with.  
+    
+  The corporation or employer has a stack they are working with.  
+  They push "PHP" on a table, you cover it with PHP, they push "Go", you cover it with idk "C".  
+    
+  Then if the employing party is satisfied, they give you the cards  
+  and you can push them on table and ask questions about say the specifics of the project.  
+    
+  They give you an offer and a paygrade you push counteroffer on a table. :)  
+  At some point in the game you should reveal something not nice about you  
+  or the system would grab something from anonymous reviews. Or straight from the magazines.  
+  But now you can put them on map, select them on map. Connect and annotate.  
     
 ## Tools for the developers
 
@@ -172,6 +193,27 @@ Mail me at ivasandovinzzz@gmail.com.
   I should have a proper cli repl for chrome. I should grep and search objects, tabs and iframes.
   It should be way simpler and more intuitive than using CDP directly.
 
+- **Assembly IDE.**
+    
+  @originally [tweet](https://x.com/sandovin34721/status/2061759136002457830)
+    
+  A good UX/UI challenge to solve is to make ASM programming nice.  
+    
+  Add a typescript like semanthic layer which would sit entirely in a comment.  
+  Something like 
+  ```asm
+  ; @layout {{id: uint32, age: uint32}} User
+
+  ; @register {User} rdi
+  mov eax, [rdx + 4]
+  ;          ^^^^ this would show you that you are accessing User.age for example now
+  ;               on hower in IDE and also when you type brackets 
+  ;               it would autocomplete the fields avilable in that view
+  ```
+    
+  Also it should support moving the RIP anywhere you want and running N+1 steps from the saved state.  
+  The memory view has to be nice enough to use and see diffs.
+    
 ## Programming Languages 
 
 - **Low level very interactive lisp.**
